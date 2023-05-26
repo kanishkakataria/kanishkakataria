@@ -12,9 +12,28 @@
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Principal Financials as an IT Intern
+- 🔭 I’m currently working in Principal Financials as a Trainee Engineer
 - 🌱 I’m currently upskilling myself with different skills and commencing new habits for betterment 
 - 👯 Dancing takes me to another world ....travelling,photography,music,scribbling makes my world better
 - 😄 Making friends is my way and coffee is my treat
 
 
+
+<br>
+<br>
+
+**Languages and Tools:**  
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,mysql,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,vscode,gitlab,github,vercel,heroku,unreal)](https://skillicons.dev)
+
+
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkakataria&layout=compact)](https://github.com/kanishkakataria/github-readme-stats)
