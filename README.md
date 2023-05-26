@@ -1,5 +1,6 @@
 ### Hi there, You Landed up in Kanishka s' Techie Shade 👋
-
+![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
+Here are some ideas to get you started:
 <!--
 **kanishkakataria/kanishkakataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
