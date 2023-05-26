@@ -1,17 +1,20 @@
-### Hi there, You Landed up in Kanishka s' Techie Shade 👋
-![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
-Here are some ideas to get you started:
+### Hi there, You Landed up in Kanishka s' Techie Zone 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishkakataria)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kanishkakataria.vercel.app)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kanishka.kataria99)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/kanishkakataria)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=2000&color=2FA4D8&background=14FFDD00&width=435&lines=Diving+Into+New+Is+My+Maxim)](https://git.io/typing-svg)
 <!--
 **kanishkakataria/kanishkakataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
+![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in Principal Financials as an IT Intern
+- 🌱 I’m currently upskilling myself with different skills and commencing new habits for betterment 
+- 👯 Dancing takes me to another world ....travelling,photography,music,scribbling makes my world better
+- 😄 Making friends is my way and coffee is my treat
+
+
