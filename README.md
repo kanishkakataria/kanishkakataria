@@ -10,11 +10,11 @@
 <!--
 **kanishkakataria/kanishkakataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)-->
-Here are some ideas to get you started:
+A bit about myself:
 
-- 🔭 I’m currently working in Principal Financials as a Trainee Engineer
-- 🌱 I’m currently upskilling myself with different skills and commencing new habits for betterment 
-- 👯 Dancing takes me to another world ....travelling,photography,music,scribbling makes my world better
+- 🔭 I’m currently working in Principal Financial Group as a Trainee Engineer
+- 🌱 I’m currently upskilling myself with different skills and commencing with new habits for betterment 
+- 👯 Dancing takes me to another world ....exploring,travelling,photography,music,scribbling makes my world better
 - 😄 Making friends is my way and coffee is my treat
 
 
@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-**Languages and Tools:**  
+**TECH STACK**  
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,mysql,mongodb&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring,selenium)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,vscode,gitlab,github,vercel,heroku,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,keras)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,vscode,gitlab,github,vercel,heroku,unreal,anaconda)](https://skillicons.dev)
 
 
 
